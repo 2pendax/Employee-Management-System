@@ -1,0 +1,45 @@
+E:\员工管理系统_2008版\员工管理系统_2008版\DAL\bin\Debug\DAL.dll
+E:\员工管理系统_2008版\员工管理系统_2008版\DAL\bin\Debug\DAL.pdb
+E:\员工管理系统_2008版\员工管理系统_2008版\DAL\bin\Debug\Common.dll
+E:\员工管理系统_2008版\员工管理系统_2008版\DAL\bin\Debug\Model.dll
+E:\员工管理系统_2008版\员工管理系统_2008版\DAL\bin\Debug\Model.pdb
+E:\员工管理系统_2008版\员工管理系统_2008版\DAL\bin\Debug\Common.pdb
+E:\员工管理系统_2008版\员工管理系统_2008版\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\员工管理系统_2008版\员工管理系统_2008版\DAL\obj\Debug\DAL.dll
+E:\员工管理系统_2008版\员工管理系统_2008版\DAL\obj\Debug\DAL.pdb
+E:\20100706\员工管理系统_2008版\DAL\bin\Debug\DAL.dll
+E:\20100706\员工管理系统_2008版\DAL\bin\Debug\DAL.pdb
+E:\20100706\员工管理系统_2008版\DAL\bin\Debug\Common.dll
+E:\20100706\员工管理系统_2008版\DAL\bin\Debug\Model.dll
+E:\20100706\员工管理系统_2008版\DAL\bin\Debug\Model.pdb
+E:\20100706\员工管理系统_2008版\DAL\bin\Debug\Common.pdb
+E:\20100706\员工管理系统_2008版\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\20100706\员工管理系统_2008版\DAL\obj\Debug\DAL.dll
+E:\20100706\员工管理系统_2008版\DAL\obj\Debug\DAL.pdb
+E:\员工管理系统\员工管理系统_2008版\DAL\bin\Debug\DAL.dll
+E:\员工管理系统\员工管理系统_2008版\DAL\bin\Debug\DAL.pdb
+E:\员工管理系统\员工管理系统_2008版\DAL\bin\Debug\Common.dll
+E:\员工管理系统\员工管理系统_2008版\DAL\bin\Debug\Model.dll
+E:\员工管理系统\员工管理系统_2008版\DAL\bin\Debug\Model.pdb
+E:\员工管理系统\员工管理系统_2008版\DAL\bin\Debug\Common.pdb
+E:\员工管理系统\员工管理系统_2008版\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\员工管理系统\员工管理系统_2008版\DAL\obj\Debug\DAL.dll
+E:\员工管理系统\员工管理系统_2008版\DAL\obj\Debug\DAL.pdb
+\\Mac\Home\Desktop\员工管理系统_2008版 (1)\员工管理系统_2008版\DAL\bin\Debug\DAL.dll
+\\Mac\Home\Desktop\员工管理系统_2008版 (1)\员工管理系统_2008版\DAL\bin\Debug\DAL.pdb
+\\Mac\Home\Desktop\员工管理系统_2008版 (1)\员工管理系统_2008版\DAL\bin\Debug\Common.dll
+\\Mac\Home\Desktop\员工管理系统_2008版 (1)\员工管理系统_2008版\DAL\bin\Debug\Model.dll
+\\Mac\Home\Desktop\员工管理系统_2008版 (1)\员工管理系统_2008版\DAL\bin\Debug\Model.pdb
+\\Mac\Home\Desktop\员工管理系统_2008版 (1)\员工管理系统_2008版\DAL\bin\Debug\Common.pdb
+\\Mac\Home\Desktop\员工管理系统_2008版 (1)\员工管理系统_2008版\DAL\obj\Debug\ResolveAssemblyReference.cache
+\\Mac\Home\Desktop\员工管理系统_2008版 (1)\员工管理系统_2008版\DAL\obj\Debug\DAL.dll
+\\Mac\Home\Desktop\员工管理系统_2008版 (1)\员工管理系统_2008版\DAL\obj\Debug\DAL.pdb
+C:\员工管理系统_2008版 (1)\员工管理系统_2008版\DAL\bin\Debug\DAL.dll
+C:\员工管理系统_2008版 (1)\员工管理系统_2008版\DAL\bin\Debug\DAL.pdb
+C:\员工管理系统_2008版 (1)\员工管理系统_2008版\DAL\bin\Debug\Common.dll
+C:\员工管理系统_2008版 (1)\员工管理系统_2008版\DAL\bin\Debug\Model.dll
+C:\员工管理系统_2008版 (1)\员工管理系统_2008版\DAL\bin\Debug\Model.pdb
+C:\员工管理系统_2008版 (1)\员工管理系统_2008版\DAL\bin\Debug\Common.pdb
+C:\员工管理系统_2008版 (1)\员工管理系统_2008版\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\员工管理系统_2008版 (1)\员工管理系统_2008版\DAL\obj\Debug\DAL.dll
+C:\员工管理系统_2008版 (1)\员工管理系统_2008版\DAL\obj\Debug\DAL.pdb

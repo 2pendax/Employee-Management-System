@@ -1,0 +1,55 @@
+E:\员工管理系统_2008版\员工管理系统_2008版\BLL\bin\Debug\BLL.dll
+E:\员工管理系统_2008版\员工管理系统_2008版\BLL\bin\Debug\BLL.pdb
+E:\员工管理系统_2008版\员工管理系统_2008版\BLL\bin\Debug\DAL.dll
+E:\员工管理系统_2008版\员工管理系统_2008版\BLL\bin\Debug\Model.dll
+E:\员工管理系统_2008版\员工管理系统_2008版\BLL\bin\Debug\Model.pdb
+E:\员工管理系统_2008版\员工管理系统_2008版\BLL\bin\Debug\DAL.pdb
+E:\员工管理系统_2008版\员工管理系统_2008版\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\员工管理系统_2008版\员工管理系统_2008版\BLL\obj\Debug\BLL.dll
+E:\员工管理系统_2008版\员工管理系统_2008版\BLL\obj\Debug\BLL.pdb
+E:\员工管理系统_2008版\员工管理系统_2008版\BLL\bin\Debug\Common.dll
+E:\员工管理系统_2008版\员工管理系统_2008版\BLL\bin\Debug\Common.pdb
+E:\20100706\员工管理系统_2008版\BLL\bin\Debug\BLL.dll
+E:\20100706\员工管理系统_2008版\BLL\bin\Debug\BLL.pdb
+E:\20100706\员工管理系统_2008版\BLL\bin\Debug\DAL.dll
+E:\20100706\员工管理系统_2008版\BLL\bin\Debug\Model.dll
+E:\20100706\员工管理系统_2008版\BLL\bin\Debug\Common.dll
+E:\20100706\员工管理系统_2008版\BLL\bin\Debug\Model.pdb
+E:\20100706\员工管理系统_2008版\BLL\bin\Debug\Common.pdb
+E:\20100706\员工管理系统_2008版\BLL\bin\Debug\DAL.pdb
+E:\20100706\员工管理系统_2008版\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\20100706\员工管理系统_2008版\BLL\obj\Debug\BLL.dll
+E:\20100706\员工管理系统_2008版\BLL\obj\Debug\BLL.pdb
+E:\员工管理系统\员工管理系统_2008版\BLL\bin\Debug\BLL.dll
+E:\员工管理系统\员工管理系统_2008版\BLL\bin\Debug\BLL.pdb
+E:\员工管理系统\员工管理系统_2008版\BLL\bin\Debug\DAL.dll
+E:\员工管理系统\员工管理系统_2008版\BLL\bin\Debug\Model.dll
+E:\员工管理系统\员工管理系统_2008版\BLL\bin\Debug\Common.dll
+E:\员工管理系统\员工管理系统_2008版\BLL\bin\Debug\Model.pdb
+E:\员工管理系统\员工管理系统_2008版\BLL\bin\Debug\Common.pdb
+E:\员工管理系统\员工管理系统_2008版\BLL\bin\Debug\DAL.pdb
+E:\员工管理系统\员工管理系统_2008版\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\员工管理系统\员工管理系统_2008版\BLL\obj\Debug\BLL.dll
+E:\员工管理系统\员工管理系统_2008版\BLL\obj\Debug\BLL.pdb
+\\Mac\Home\Desktop\员工管理系统_2008版 (1)\员工管理系统_2008版\BLL\bin\Debug\BLL.dll
+\\Mac\Home\Desktop\员工管理系统_2008版 (1)\员工管理系统_2008版\BLL\bin\Debug\BLL.pdb
+\\Mac\Home\Desktop\员工管理系统_2008版 (1)\员工管理系统_2008版\BLL\bin\Debug\DAL.dll
+\\Mac\Home\Desktop\员工管理系统_2008版 (1)\员工管理系统_2008版\BLL\bin\Debug\Model.dll
+\\Mac\Home\Desktop\员工管理系统_2008版 (1)\员工管理系统_2008版\BLL\bin\Debug\Common.dll
+\\Mac\Home\Desktop\员工管理系统_2008版 (1)\员工管理系统_2008版\BLL\bin\Debug\Model.pdb
+\\Mac\Home\Desktop\员工管理系统_2008版 (1)\员工管理系统_2008版\BLL\bin\Debug\Common.pdb
+\\Mac\Home\Desktop\员工管理系统_2008版 (1)\员工管理系统_2008版\BLL\bin\Debug\DAL.pdb
+\\Mac\Home\Desktop\员工管理系统_2008版 (1)\员工管理系统_2008版\BLL\obj\Debug\ResolveAssemblyReference.cache
+\\Mac\Home\Desktop\员工管理系统_2008版 (1)\员工管理系统_2008版\BLL\obj\Debug\BLL.dll
+\\Mac\Home\Desktop\员工管理系统_2008版 (1)\员工管理系统_2008版\BLL\obj\Debug\BLL.pdb
+C:\员工管理系统_2008版 (1)\员工管理系统_2008版\BLL\bin\Debug\BLL.dll
+C:\员工管理系统_2008版 (1)\员工管理系统_2008版\BLL\bin\Debug\BLL.pdb
+C:\员工管理系统_2008版 (1)\员工管理系统_2008版\BLL\bin\Debug\DAL.dll
+C:\员工管理系统_2008版 (1)\员工管理系统_2008版\BLL\bin\Debug\Model.dll
+C:\员工管理系统_2008版 (1)\员工管理系统_2008版\BLL\bin\Debug\Common.dll
+C:\员工管理系统_2008版 (1)\员工管理系统_2008版\BLL\bin\Debug\Model.pdb
+C:\员工管理系统_2008版 (1)\员工管理系统_2008版\BLL\bin\Debug\Common.pdb
+C:\员工管理系统_2008版 (1)\员工管理系统_2008版\BLL\bin\Debug\DAL.pdb
+C:\员工管理系统_2008版 (1)\员工管理系统_2008版\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\员工管理系统_2008版 (1)\员工管理系统_2008版\BLL\obj\Debug\BLL.dll
+C:\员工管理系统_2008版 (1)\员工管理系统_2008版\BLL\obj\Debug\BLL.pdb
